@@ -19,7 +19,7 @@ Arrow Keys: Move PinkMan left, right, up, or down.
 P: Pause the game.
 Q: Quit the game.
 Credits
-PinkMan was developed by <username> as a personal project. The game was created using the SDL library and C programming language.
+PinkMan was developed by me as a personal project. The game was created using the SDL library and C++ programming language.
 
 License
 PinkMan is licensed under the MIT License. Feel free to use and modify the code as you see fit.
