@@ -1,4 +1,4 @@
-PinkMan SDL Game
+#PinkMan SDL Game
 PinkMan is a 2D arcade-style game developed using the Simple DirectMedia Layer (SDL) library. In this game, the player controls a character called PinkMan, who must navigate through different levels while avoiding obstacles and enemies to reach the end goal.
 
 Installation and Running
